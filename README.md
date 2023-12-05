@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Gökay Yıldız --> Hi, I'm Gökay Yıldız<br>👀 I'm interested in Cyber ​​Security and SQL. --> Siber Güvenlik ve SQL ile ilgileniyorum.</p>
+<p align="left">👋 Hello, I'm Gökay Yıldız --> Hi, I'm Gökay Yıldız<br>👀 I'm interested in Cyber ​​Security and SQL. --> Siber Güvenlik ve SQL ile ilgileniyorum.<br>📫 Bana egegokay91@gmail.com veya https://www.linkedin.com/in/gokayskywalker adreslerinden ulaşabilirsiniz.<br>📫 You can reach me at egegokay91@gmail.com or https://www.linkedin.com/in/gokayskywalker.</p>
 
 ###
 
@@ -52,12 +52,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gokayskywalker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
