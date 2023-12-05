@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Gökay Yıldız</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön yüz geliştiricisi</h3>
+<h3 align="center">May the force be with you</h3>
 
 <h3 align="left">Benimle bağlantı kurun: </h3>
 <p align = "left">
